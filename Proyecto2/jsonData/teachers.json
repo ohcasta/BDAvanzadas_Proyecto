@@ -1,0 +1,274 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "first_name": "Shel",
+      "last_name": "Lister",
+      "gender": "Polygender",
+      "username": "slister0",
+      "phone": "830-335-2888",
+      "address": "55 Continental Drive"
+    },
+    {
+      "id": 2,
+      "first_name": "Delmar",
+      "last_name": "Giacopelo",
+      "gender": "Male",
+      "username": "dgiacopelo1",
+      "phone": null,
+      "address": null
+    },
+    {
+      "id": 3,
+      "first_name": "Pattie",
+      "last_name": "Napton",
+      "gender": "Female",
+      "username": "pnapton2",
+      "phone": "960-195-9523",
+      "address": "71808 Myrtle Circle"
+    },
+    {
+      "id": 4,
+      "first_name": "Averil",
+      "last_name": "Loeber",
+      "gender": "Male",
+      "username": "aloeber3",
+      "phone": "637-150-2402",
+      "address": "12 Pepper Wood Parkway"
+    },
+    {
+      "id": 5,
+      "first_name": "Ky",
+      "last_name": "Roger",
+      "gender": "Male",
+      "username": "kroger4",
+      "phone": "857-169-6529",
+      "address": "71 Scoville Court"
+    },
+    {
+      "id": 6,
+      "first_name": "Hanson",
+      "last_name": "Pollastrone",
+      "gender": "Male",
+      "username": "hpollastrone5",
+      "phone": "252-514-2516",
+      "address": "5 Loomis Center"
+    },
+    {
+      "id": 7,
+      "first_name": "Mahmoud",
+      "last_name": "Leah",
+      "gender": "Male",
+      "username": "mleah6",
+      "phone": "963-945-4609",
+      "address": "83 Melvin Lane"
+    },
+    {
+      "id": 8,
+      "first_name": "Galven",
+      "last_name": "MacGaffey",
+      "gender": "Male",
+      "username": "gmacgaffey7",
+      "phone": "663-329-9535",
+      "address": "1 Northview Circle"
+    },
+    {
+      "id": 9,
+      "first_name": "Sharia",
+      "last_name": "Sanpher",
+      "gender": "Female",
+      "username": "ssanpher8",
+      "phone": "286-800-2190",
+      "address": "21385 Novick Park"
+    },
+    {
+      "id": 10,
+      "first_name": "Raff",
+      "last_name": "Burgiss",
+      "gender": "Male",
+      "username": "rburgiss9",
+      "phone": "269-753-2069",
+      "address": "95404 Lakewood Gardens Parkway"
+    },
+    {
+      "id": 11,
+      "first_name": "Farlay",
+      "last_name": "Dinis",
+      "gender": "Non-binary",
+      "username": "fdinisa",
+      "phone": "159-224-2198",
+      "address": "4 Colorado Street"
+    },
+    {
+      "id": 12,
+      "first_name": "Asher",
+      "last_name": "Jakobsson",
+      "gender": "Male",
+      "username": "ajakobssonb",
+      "phone": "227-995-1663",
+      "address": "3534 Bay Center"
+    },
+    {
+      "id": 13,
+      "first_name": "Dara",
+      "last_name": "Bennitt",
+      "gender": "Female",
+      "username": "dbennittc",
+      "phone": "694-666-3678",
+      "address": "45 Valley Edge Park"
+    },
+    {
+      "id": 14,
+      "first_name": "Bevon",
+      "last_name": "Scrannage",
+      "gender": "Male",
+      "username": "bscrannaged",
+      "phone": "680-391-0220",
+      "address": "94 Eggendart Hill"
+    },
+    {
+      "id": 15,
+      "first_name": "Wandis",
+      "last_name": "Hardey",
+      "gender": "Female",
+      "username": "whardeye",
+      "phone": "951-234-3733",
+      "address": "195 Loftsgordon Hill"
+    },
+    {
+      "id": 16,
+      "first_name": "Freemon",
+      "last_name": "McIndoe",
+      "gender": "Male",
+      "username": "fmcindoef",
+      "phone": "734-390-4408",
+      "address": "355 Esch Drive"
+    },
+    {
+      "id": 17,
+      "first_name": "Dedra",
+      "last_name": "Jansik",
+      "gender": "Female",
+      "username": "djansikg",
+      "phone": "669-146-6034",
+      "address": "4 Crownhardt Trail"
+    },
+    {
+      "id": 18,
+      "first_name": "Natalina",
+      "last_name": "Lauret",
+      "gender": "Female",
+      "username": "nlaureth",
+      "phone": "108-912-0592",
+      "address": "0 Longview Pass"
+    },
+    {
+      "id": 19,
+      "first_name": "Lacee",
+      "last_name": "Conniam",
+      "gender": "Genderqueer",
+      "username": "lconniami",
+      "phone": "439-225-5427",
+      "address": "77 Bay Center"
+    },
+    {
+      "id": 20,
+      "first_name": "Mata",
+      "last_name": "Savory",
+      "gender": "Male",
+      "username": "msavoryj",
+      "phone": "572-388-4481",
+      "address": null
+    },
+    {
+      "id": 21,
+      "first_name": "Angus",
+      "last_name": "Trusdale",
+      "gender": "Male",
+      "username": "atrusdalek",
+      "phone": "400-731-8570",
+      "address": "97756 3rd Drive"
+    },
+    {
+      "id": 22,
+      "first_name": "Caddric",
+      "last_name": "Cantu",
+      "gender": "Male",
+      "username": "ccantul",
+      "phone": "328-801-2642",
+      "address": "9267 Killdeer Junction"
+    },
+    {
+      "id": 23,
+      "first_name": "Elvina",
+      "last_name": "Rigby",
+      "gender": "Female",
+      "username": "erigbym",
+      "phone": "722-716-1091",
+      "address": "5780 Village Green Circle"
+    },
+    {
+      "id": 24,
+      "first_name": "Rabi",
+      "last_name": "Dounbare",
+      "gender": "Agender",
+      "username": "rdounbaren",
+      "phone": "639-386-9938",
+      "address": "512 Summerview Way"
+    },
+    {
+      "id": 25,
+      "first_name": "Laura",
+      "last_name": "Camis",
+      "gender": "Female",
+      "username": "lcamiso",
+      "phone": "247-834-9015",
+      "address": "102 Ramsey Drive"
+    },
+    {
+      "id": 26,
+      "first_name": "Charlena",
+      "last_name": "Labro",
+      "gender": "Polygender",
+      "username": "clabrop",
+      "phone": "748-803-2647",
+      "address": "83 Northfield Trail"
+    },
+    {
+      "id": 27,
+      "first_name": "Beale",
+      "last_name": "Bartholomew",
+      "gender": "Male",
+      "username": "bbartholomewq",
+      "phone": "111-796-0460",
+      "address": "4 Declaration Court"
+    },
+    {
+      "id": 28,
+      "first_name": "Nathan",
+      "last_name": "Tester",
+      "gender": "Male",
+      "username": "ntesterr",
+      "phone": "351-387-9178",
+      "address": "12740 Jenna Park"
+    },
+    {
+      "id": 29,
+      "first_name": "Tamra",
+      "last_name": "Beevor",
+      "gender": "Female",
+      "username": "tbeevors",
+      "phone": "641-925-1855",
+      "address": "9779 Riverside Point"
+    },
+    {
+      "id": 30,
+      "first_name": "Ermengarde",
+      "last_name": "Rochell",
+      "gender": "Female",
+      "username": "erochellt",
+      "phone": "264-405-6244",
+      "address": "4161 Rutledge Pass"
+    }
+  ]
+}
